@@ -37,7 +37,7 @@ ios app (team of 4) that lidar-scans a room and furnishes it from a style prompt
 <a href="https://github.com/suad52/paint-a-house"><b>paint a house</b></a> · <a href="https://www.roblox.com/games/118564698121472">play</a>
 <code>luau</code> <code>roblox</code> <code>rojo</code>
 <br>
-<b>338k visits · 2.3k favorites</b>
+<b>338k visits · 2.3k favorites · 200 peak concurrent players</b>
 <br>
 roblox game about painting houses
 </td>
@@ -47,7 +47,7 @@ roblox game about painting houses
 <a href="https://github.com/suad52/clean-the-beach"><b>clean the beach</b></a> · <a href="https://www.roblox.com/games/98491176124242">play</a>
 <code>luau</code> <code>roblox</code> <code>rojo</code>
 <br>
-<b>275k visits · 3.2k favorites</b>
+<b>275k visits · 3.2k favorites · 100 peak concurrent players</b>
 <br>
 roblox game about cleaning up beaches, with islands, pets, a collection index and timed events
 </td>
@@ -57,7 +57,7 @@ roblox game about cleaning up beaches, with islands, pets, a collection index an
 <a href="https://github.com/suad52/arcteryx-beading-tycoon"><b>arc'teryx beading tycoon</b></a> · <a href="https://www.roblox.com/games/135060501061525">play</a>
 <code>luau</code> <code>roblox</code> <code>rojo</code>
 <br>
-<b>71k visits · 3.4k favorites</b>
+<b>71k visits · 3.4k favorites · 150 peak concurrent players</b>
 <br>
 roblox tycoon game
 </td>
