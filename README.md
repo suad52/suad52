@@ -20,7 +20,7 @@
 <a href="https://github.com/anujmish1229/build"><b>poltar</b></a>
 <code>swift</code> <code>swiftui</code> <code>roomplan</code> <code>arkit</code> <code>scenekit</code>
 <br>
-uoft hacks hack or treat 2026, team of 4. ios app that lidar-scans a room and furnishes it from a style prompt with real products guaranteed to fit. the layout solver, 3d/ar viewer and llm all run on-device
+uofthacks hack or treat 2026, team of 4. ios app that lidar-scans a room and furnishes it from a style prompt with real products guaranteed to fit. the layout solver, 3d/ar viewer and llm all run on-device
 </td>
 </tr>
 <tr>
