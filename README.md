@@ -10,7 +10,7 @@
 
 - first-year math + bba double degree at the **university of waterloo** and **wilfrid laurier university**
 - building roblox games and ios apps
-- looking for part-time and internship roles
+- looking for **summer 2027** internships
 
 ### things i've built
 
