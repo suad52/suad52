@@ -1,8 +1,8 @@
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/linkedin-suadalam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadalam/)
-[![devpost](https://img.shields.io/badge/devpost-suadalam2020-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/suadalam2020/challenges)
-[![email](https://img.shields.io/badge/email-s48alam%40uwaterloo.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s48alam@uwaterloo.ca)
+<a href="https://www.linkedin.com/in/suadalam/"><img src="assets/linkedin.svg" alt="linkedin" height="36"></a>
+<a href="https://devpost.com/suadalam2020/challenges"><img src="assets/devpost.svg" alt="devpost" height="36"></a>
+<a href="mailto:s48alam@uwaterloo.ca"><img src="assets/email.svg" alt="email" height="36"></a>
 
 </div>
 
