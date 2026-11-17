@@ -1,7 +1,8 @@
 <div align="center">
 
 [![linkedin](https://img.shields.io/badge/linkedin-suadalam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadalam/)
-[![seal a driveway](https://img.shields.io/badge/play-seal%20a%20driveway-E8E8E8?style=for-the-badge&logo=roblox&logoColor=black)](https://www.roblox.com/games/120014184236770)
+[![devpost](https://img.shields.io/badge/devpost-suadalam2020-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/suadalam2020/challenges)
+[![email](https://img.shields.io/badge/email-s48alam%40uwaterloo.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s48alam@uwaterloo.ca)
 
 </div>
 
@@ -16,20 +17,20 @@
 <table>
 <tr>
 <td>
+<a href="https://github.com/anujmish1229/build"><b>poltar</b></a>
+<code>swift</code> <code>swiftui</code> <code>roomplan</code> <code>arkit</code> <code>scenekit</code>
+<br>
+ios app (team of 4) that lidar-scans a room and furnishes it from a style prompt with real products guaranteed to fit. the layout solver, 3d/ar viewer and llm all run on-device
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://github.com/suad52/seal-a-driveway"><b>seal a driveway</b></a> · <a href="https://www.roblox.com/games/120014184236770">play</a>
 <code>luau</code> <code>roblox</code> <code>rojo</code>
 <br>
 <b>10m+ visits · 44k favorites · 10k peak concurrent players</b>
 <br>
 sealcoating game. about 69k lines of luau, including a client-side fluid simulation that is profiled and tested for mass conservation
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/anujmish1229/build"><b>poltar</b></a>
-<code>swift</code> <code>swiftui</code> <code>roomplan</code> <code>arkit</code> <code>scenekit</code>
-<br>
-ios app (team of 4) that lidar-scans a room and furnishes it from a style prompt with real products guaranteed to fit. the layout solver, 3d/ar viewer and llm all run on-device
 </td>
 </tr>
 <tr>
