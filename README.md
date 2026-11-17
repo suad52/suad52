@@ -19,7 +19,7 @@
 <a href="https://github.com/suad52/seal-a-driveway"><b>seal a driveway</b></a> · <a href="https://www.roblox.com/games/120014184236770">play</a>
 <code>luau</code> <code>roblox</code> <code>rojo</code>
 <br>
-<b>7.3m visits and 44k favorites since launching in august 2026</b>, with a 10k concurrent-player peak. about 69k lines of luau, including a client-side fluid simulation that is profiled and tested for mass conservation
+<b>10m+ visits and 44k favorites since launching in august 2026</b>, with a 10k concurrent-player peak. about 69k lines of luau, including a client-side fluid simulation that is profiled and tested for mass conservation
 </td>
 </tr>
 <tr>
